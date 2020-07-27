@@ -1,0 +1,3 @@
+Avg score: 9.0
+
+Gene	Score
