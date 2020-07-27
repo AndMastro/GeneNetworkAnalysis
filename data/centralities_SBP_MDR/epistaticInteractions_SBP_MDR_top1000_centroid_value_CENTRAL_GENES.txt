@@ -1,0 +1,10 @@
+Avg centroid_value: -259.53731343283584
+
+Gene	centroid_value
+ATP2B1	0
+AC004917.1	0
+CNNM2	-28
+NPR3	-111
+MTHFR	-222
+AC016766.1	-228
+TBX2	-259
