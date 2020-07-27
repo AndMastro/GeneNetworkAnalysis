@@ -151,7 +151,7 @@ if __name__ == "__main__":
             numNodes = G.number_of_nodes()
             centrality_measure = {}
 
-            for gene in nodes:
+            for gene in tqdm(nodes):
                 centrality_measure[gene] = 0
                 for gene1 in all_paths:
                     for gene2 in all_paths:
