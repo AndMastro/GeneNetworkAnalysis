@@ -1,0 +1,8 @@
+Avg centroid_value: -274.9328621908127
+
+Gene	centroid_value
+MYH6	0
+KIAA1755	0
+AC087312.1	0
+TRIP6	-131
+RNU4-35P	-272

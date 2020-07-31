@@ -1,0 +1,9 @@
+Avg centroid_value: -316.5925925925926
+
+Gene	centroid_value
+AC011518.1	76
+CDK17	-76
+MTAP	-140
+LINC02398	-203
+SENP2	-225
+LINC00211	-281

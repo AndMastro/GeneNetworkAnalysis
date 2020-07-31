@@ -1,0 +1,4 @@
+Avg stress: 274.9328621908127
+
+Gene	stress
+MYH6	77806
